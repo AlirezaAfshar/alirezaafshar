@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Alireza Afshar
 
 ## 🌟 About Me
-I'm a passionate Product & Growth Strategist with a strong background in Technical Marketing, UX Design, and Solution Architecture. Currently, I'm leading product marketing initiatives at **Digikala.com**, where I focus on enhancing user engagement through gamification, personalization, and targeted marketing campaigns.
+I'm a passionate Product & Growth Strategist with a strong background in Technical Marketing, UX Design, Solution Architecture, and Software Development. Currently, I'm leading product marketing initiatives at **Digikala.com**, where I focus on enhancing user engagement through gamification, personalization, and targeted marketing campaigns.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/alirezaafshar) | 🌐 [Personal Website](https://www.alirezaafshar.com)
 
@@ -25,6 +25,10 @@ I'm a passionate Product & Growth Strategist with a strong background in Technic
   - Co-founded **Ideaworld**, transforming it into a popular tech magazine reaching **4,000+ daily visitors**.
   - Launched **Tahteweb**, an automated cloud hosting platform reducing service delivery times by **80%**.
 
+- **Software Development**
+  - Developed various web-based applications and solutions, emphasizing performance, scalability, and user-centric design.
+  - Experienced with modern frameworks and technologies for building robust digital products.
+
 ---
 
 ## 💼 Skills & Expertise
@@ -33,6 +37,7 @@ I'm a passionate Product & Growth Strategist with a strong background in Technic
 - UX/UI Design
 - Technical Marketing & Gamification
 - Web Development & Solution Architecture
+- Software Development
 
 ---
 
@@ -44,8 +49,3 @@ I'm a passionate Product & Growth Strategist with a strong background in Technic
 
 ## 📫 Let's Connect!
 Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/alirezaafshar). I'm always open to discussing new opportunities or collaboration ideas!
-
----
-
-🚧 *This README is continuously evolving!* 🚧
-
